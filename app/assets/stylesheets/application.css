@@ -13,3 +13,16 @@
  *= require_tree .
  *= require_self
  */
+
+ .inpute {
+  height: 60px;
+ }
+
+ .butaum {
+  width: 100px;
+  font-size: 1.5em;
+ }
+
+ .text-size {
+  font-size: 1.5em;
+ }
